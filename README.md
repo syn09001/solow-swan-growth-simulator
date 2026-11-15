@@ -1,6 +1,6 @@
 # Solow–Swan Economic Growth Simulator
 
-An interactive simulation of the Solow–Swan neoclassical growth model, illustrating how an economy dynamically adjusts toward a new steady-state equilibrium following changes in economic parameters.
+An interactive simulation of the Solow–Swan neoclassical growth model, illustrating how an economy dynamically adjusts toward a new steady-state equilibrium following changes in economic parameters. **[Launch the Interactive Simulator](https://solow-swan-growth-simulator.ai.studio)**
 
 ## Overview
 
