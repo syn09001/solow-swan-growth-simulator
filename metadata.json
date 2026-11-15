@@ -1,0 +1,6 @@
+{
+  "name": "Solow Growth Model Simulator",
+  "description": "A dynamic simulation of the Solow growth model. Users can set initial parameters, see the calculated steady state, and then perturb the system with shocks to see the dynamic evolution of endogenous variables over time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
